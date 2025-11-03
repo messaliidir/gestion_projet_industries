@@ -1,6 +1,6 @@
 Carnet de bord du 03/11/2025
 Idée de jeu (x5)
--> Jeu 1: [EcoBusiness Challenge](1er jeux)
+-> Jeu 1: [EcoBusiness Challenge](1er_jeux.md)
 
 -> Jeu 2: Sensibilisation aux problèmes des mals voyants
 
