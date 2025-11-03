@@ -29,22 +29,29 @@ avec des contraintes qui définit les difficultés avec un des
 
 
 
+-> Jeu 2: jeu de rôle: acteurs d'une entreprises
+----------------------------------------------------------------
+
+Type : Jeu de rôle stratégique (simulation d’entreprise)
+
+Nombre de joueurs : 5 à 10 (1 représentant de l’État, 4 à 9 entreprises)
+
+Durée : 40-60 min
+
+Cible: à partir de 16 ans
+
+Objectif pédagogique :
+découvrir comment les entreprisent se développent et fonctionnent tout en respectants les reglementations.
+ça permet aussi d'apprendre les différents rôles, et acteurs d'une entreprises.
+
+Description:
+Chacun aurait un role (patron, employé, responsable environnement,....), et chaque rôle doit compléter le plus d'objectifs (objectifs liés à son rôle).
+Seul le patron à pour objectif d'égaliser le nombre d'objectifs complétés par chaque rôles. C'est le rôle le plus dur, mais aussi qui gagne le plus de point.
+lorsqu'un joueur à fini tous ses objectif (impossible por le patron), la partie s'arrête. On compte alors les points. Le joueur avec le plus de points gagne.
+Seul le patron peu avoir plus de point que le joueur ayant fini tous ses objectifs.
 
 
--> Jeu 2: Recruiter moi.
-
- Type de jeu : jeu sérieux 
-
- Objectif du jeu :
-Aider les étudiants et jeunes diplômés à mieux comprendre :
-   -leur propre personnalité professionnelle.
-   -les attentes des recruteurs.
-   -les profils les plus recherchés dans les entreprises.
- À chaque réponse, le jeu évalue :
-   -le type de personnalité du joueur (ex : leadership, travail en équipe, créativité…),
-   -la compatibilité avec certains types d’entreprises ou de postes.
- l'environnement de jouer : 
-   essayé de développer une application sur PC 
+accessibilité: gratuit + imprimable / en ligne
 
 -> Jeu 3: Sensibilisation aux problèmes des mals voyants
 
@@ -75,6 +82,7 @@ jeu 5: X pour, X contre, X abstention
 
 Jeu sélectionné
 Description du jeu sélectionné
+
 
 
 
