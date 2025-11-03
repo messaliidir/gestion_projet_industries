@@ -28,6 +28,9 @@ avec des contraintes qui définit les difficultés avec un des
 
 
 
+
+
+
 -> Jeu 2: Sensibilisation aux problèmes des mals voyants
 
 Type de jeu
@@ -62,4 +65,5 @@ jeu 5: X pour, X contre, X abstention
 
 Jeu sélectionné
 Description du jeu sélectionné
+
 
