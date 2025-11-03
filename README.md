@@ -20,7 +20,7 @@ Comprendre les interactions entre entreprise et État (conformité, corruption,.
 
 Développer l’esprit critique, la stratégie et l’éthique professionnelle.
 avec des contraintes qui définit les difficultés avec un des
-----------------------------------------------------------------
+
 
 
 
