@@ -7,9 +7,13 @@ Idée de jeu (x5)
 -> Jeu 1: EcoBusiness Challenge
 ----------------------------------------------------------------
 Titre proposé : “EcoBusiness Challenge”
+
 Type : Jeu de rôle stratégique (simulation d’entreprise)
+
 Nombre de joueurs : 5 à 10 (1 représentant de l’État, 4 à 9 entreprises)
+
 Durée : 1h30 à 2h
+
 Objectif pédagogique :
 
 Apprendre les bases de la gestion et de l’organisation d’une entreprise (organigramme, fonctions, décisions).
@@ -58,3 +62,4 @@ jeu 5: X pour, X contre, X abstention
 
 Jeu sélectionné
 Description du jeu sélectionné
+
